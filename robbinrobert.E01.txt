@@ -1,0 +1,51 @@
+﻿Created By AccessData® FTK® Imager 4.3.0.18 
+
+Case Information: 
+Acquired using: ADI4.3.0.18
+Case Number: 1
+Evidence Number: 1
+Unique description: Robbin Robert's SATA SSD (128GB)
+Examiner: Akshay Desai
+Notes: contains possible important information on charlotte bank of america robbery
+
+--------------------------------------------------------------
+
+Information for C:\Users\Akshay\Desktop\ITIS5250\GraduateResearchLab\imagefolder\robbinrobert:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 14,593
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 234,441,648
+[Physical Drive Information]
+ Drive Model: SanDisk SDSSDX120GG25
+ Drive Serial Number: 124279400953        
+ Drive Interface Type: IDE
+ Removable drive: False
+ Source data size: 114473 MB
+ Sector count:    234441648
+[Computed Hashes]
+ MD5 checksum:    3ec51fedc28c24868beb45a6e7cdbc28
+ SHA1 checksum:   353aa7761b852800f11851fde451f317bc9baa7d
+
+Image Information:
+ Acquisition started:   Sun Apr 26 21:18:49 2020
+ Acquisition finished:  Sun Apr 26 21:25:25 2020
+ Segment list:
+  C:\Users\Akshay\Desktop\ITIS5250\GraduateResearchLab\imagefolder\robbinrobert.E01
+
+Image Verification Results:
+ Verification started:  Sun Apr 26 21:25:25 2020
+ Verification finished: Sun Apr 26 21:30:36 2020
+ MD5 checksum:    3ec51fedc28c24868beb45a6e7cdbc28 : verified
+ SHA1 checksum:   353aa7761b852800f11851fde451f317bc9baa7d : verified
+
+Image Verification Results:
+ Verification started:  Sun Apr 26 22:05:06 2020
+ Verification finished: Sun Apr 26 22:10:13 2020
+ MD5 checksum:    3ec51fedc28c24868beb45a6e7cdbc28 : verified
+ SHA1 checksum:   353aa7761b852800f11851fde451f317bc9baa7d : verified
